@@ -1,6 +1,6 @@
 # Notas:
 
-Este es mi primer programa en note, se pone Readme en main
+Este es mi primer programa en note, se pone Readme en main ahora sí
 
 ```
 Opciones:
